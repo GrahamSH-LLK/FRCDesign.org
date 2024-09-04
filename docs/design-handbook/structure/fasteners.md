@@ -6,15 +6,17 @@ A guide on fasteners and fastener standards common in FRC. They come in all sort
 
 ### Why?
 
-Putting all of your fasteners in your CAD is very important for a few reasons. 
+Putting all of your fasteners in your CAD is **very important** for a few reasons. Putting hardware in your CAD lets you check clearences between parts, have an accurate BOM so you know exactly what you need to order, and it makes it easy for your team to assemble the robot. 
 
 ### Best Practices
 
-Standard Content
+Before we get into the different types of fasteners, we must first talk about CAD best practices. Putting your fasteners into the document in the wrong way can and will lag your document. 
 
-McMaster Carr
+Standard Content - Onshape has a feature called "Standard Content" that has a wide variety of fasteners ready to import and be used in your assemblies. 
 
-Replicate Tool
+McMaster Carr - Sometimes, the Standard Content tab will not have the exact size or type of fastener that you need. This is where we go to the next best thing: McMasterCarr. McMaster has every single type of fastener you can think of. The best thing? Every single one has their own CAD file, free to download. So, when you have a time where the fastener you need isn't in Standard Content? Go to McMaster, download the file you need, and you will be back on track. 
+
+Replicate Tool - You only need to import each unique size of fastener per assembly. After, use the extremely useful "Replicate" tool to copy that piece of hardware into every place you need it to be. This massively reduces load times and cleans up your assemblies significantly, making it easier for you and others to navigate your CAD.
 
 ## Bolts and Nuts
 
